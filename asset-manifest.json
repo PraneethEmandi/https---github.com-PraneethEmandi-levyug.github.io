@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/levyug/static/css/main.7f57c019.css",
-    "main.js": "/levyug/static/js/main.521d452b.js",
+    "main.css": "/levyug/static/css/main.28a7caf4.css",
+    "main.js": "/levyug/static/js/main.6d67836e.js",
     "static/js/787.1bd0b810.chunk.js": "/levyug/static/js/787.1bd0b810.chunk.js",
+    "static/media/levyug.jpeg": "/levyug/static/media/levyug.f94c8831758eef5d9c35.jpeg",
     "static/media/logo.png": "/levyug/static/media/logo.f3e8545919813e3ba9af.png",
     "static/media/NITC.jpeg": "/levyug/static/media/NITC.dd9f89b7dd9482697cad.jpeg",
     "static/media/nitc_logo_icon.svg": "/levyug/static/media/nitc_logo_icon.182fe8bce152b5a3eadb041bca49e2aa.svg",
     "static/media/pic.jpg": "/levyug/static/media/pic.1e3aa7daa9fbb5619776.jpg",
     "index.html": "/levyug/index.html",
-    "main.7f57c019.css.map": "/levyug/static/css/main.7f57c019.css.map",
-    "main.521d452b.js.map": "/levyug/static/js/main.521d452b.js.map",
+    "main.28a7caf4.css.map": "/levyug/static/css/main.28a7caf4.css.map",
+    "main.6d67836e.js.map": "/levyug/static/js/main.6d67836e.js.map",
     "787.1bd0b810.chunk.js.map": "/levyug/static/js/787.1bd0b810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f57c019.css",
-    "static/js/main.521d452b.js"
+    "static/css/main.28a7caf4.css",
+    "static/js/main.6d67836e.js"
   ]
 }
