@@ -68,3 +68,7 @@ img{
     margin-left: 25vw;
     gap: 10vw;
 }
+.section{
+    max-width: 100vw;
+    overflow: hidden;
+}
